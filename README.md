@@ -11,4 +11,4 @@ http-server -p 9999
 then navigate to http://localhost:9999 in your browser.
 
 ## Contributors
-* [Josh Kilgore(https://github.com/jkillz2020)]
+* Josh Kilgore[(https://github.com/jkillz2020)]
